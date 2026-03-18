@@ -48,8 +48,8 @@ nav.scrolled .nav-burger span { background: var(--black); }
 .hero-img.loaded { transform: scale(1); }
 
 @media (max-width: 768px) {
-  .hero-img { background-image: url('img/hero_perronace_mobile.jpg'); }
-  .divider-section { background-image: url('img/sfondo_vision_mobile.jpg') !important; }
+  .hero-img { background-image: url('img/hero_perronace.jpg'); }
+  .divider-section { background-image: url('img/sfondo_vision.jpg') !important; }
 }
 
 .hero-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.78) 0%, rgba(0,0,0,0.3) 45%, rgba(0,0,0,0.05) 100%); }
